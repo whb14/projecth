@@ -1,2 +1,3 @@
 No mistake
 feature 1
+feature 2
